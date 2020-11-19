@@ -1,2 +1,0 @@
-[webservers]
-35.202.86.173 ansible_connection = local
