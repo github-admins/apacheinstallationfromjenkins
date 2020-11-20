@@ -1,5 +1,4 @@
 ---
-all:
 - hosts: webservers
   become: True
   tasks:
