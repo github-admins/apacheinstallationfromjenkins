@@ -1,2 +1,2 @@
 [webservers]
-35.202.86.173 ansible_connection = ssh
+35.202.86.173 ansible_connection=ssh
